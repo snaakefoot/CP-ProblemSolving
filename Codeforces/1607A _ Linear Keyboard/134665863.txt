@@ -1,0 +1,42 @@
+#include <stdio.h>
+#include <stdlib.h>
+ 
+int pos (char c ,char alph[26])
+ 
+         {
+            int i;
+            for (i=0;i<26;i++)
+            {
+                if(alph[i]==c){
+                    return i;
+                }
+            }
+         }
+ 
+int main()
+{
+    int t,k,s,p,b ;
+    char alph[27],ch[10000] ;
+ 
+    scanf("%d",&t);
+    for (k=0 ; k<t ;k++)
+    {
+        scanf("%s",alph);
+        scanf("%s",ch);
+        p=1 ;
+        s=0;
+        b=ch[0];
+ 
+        while (ch[p]>0)
+        {
+                if(ch[p]!=b)
+                {
+                    s+=abs(pos(b,alph)-pos(ch[p],alph));
+                    b=ch[p];
+                }
+            ++p;
+        }
+        printf("%d \n",s);
+ 
+    }
+}
