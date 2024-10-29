@@ -1,6 +1,6 @@
 # Competitive Programming and Problem Solving 
 
-This repository contains my competitive programming solutions and resources, primarily from [Codeforces](https://codeforces.com/) (main: [**snakefoot**](https://codeforces.com/profile/snakefoot) , alts: [**snakeleg**](https://codeforces.com/profile/snakeleg) , [**SnakeArm**](https://codeforces.com/profile/SnakeArm) ) and [AtCoder]([https://atcoder.jp/](https://atcoder.jp/users/snakefoot)).
+This repository contains my competitive programming solutions and resources, primarily from [Codeforces](https://codeforces.com/) (main: [**snakefoot**](https://codeforces.com/profile/snakefoot) , alts: [**snakeleg**](https://codeforces.com/profile/snakeleg) , [**SnakeArm**](https://codeforces.com/profile/SnakeArm) ) and [AtCoder]((https://atcoder.jp/users/snakefoot)).
 
 ## Structure
 
