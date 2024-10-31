@@ -15,6 +15,6 @@ This repository contains some of my competitive programming solutions and resour
 - Refer to **Templates** for coding shortcuts.
 
 
-  ![image](https://github.com/user-attachments/assets/0ed09050-23f8-422e-a8a2-1f739e33ff31)
+![image](https://github.com/user-attachments/assets/0ed09050-23f8-422e-a8a2-1f739e33ff31)
 
 
